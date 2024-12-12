@@ -13,7 +13,7 @@ This project automates the process of checking for new posts on specific website
 Before running this project, ensure you have the following installed:
 - Python 3.x
 - `pip` for installing Python packages
-- WordPress site with. 
+- WordPress site. 
 - SQLite database (the script will create one automatically)
 
 ## Installation
@@ -26,6 +26,7 @@ Paste both the php files in that folder
 
 ### 3. functions.php
 paste this line of code at the end of your functions.php file
+```bash
 require get_theme_file_path('/job_cron/jobScheduler.php');
 
 ```bash
