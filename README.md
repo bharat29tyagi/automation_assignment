@@ -28,7 +28,9 @@ Paste both the php files in that folder
 paste this line of code at the end of your functions.php file
 ```bash
 require get_theme_file_path('/job_cron/jobScheduler.php');
+```
 
 ```bash
 git clone https://github.com/bharat29tyagi/automation_assignment
 cd automation_assignment
+```
