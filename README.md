@@ -33,4 +33,5 @@ require get_theme_file_path('/job_cron/jobScheduler.php');
 ```bash
 git clone https://github.com/bharat29tyagi/automation_assignment
 cd automation_assignment
+pip -r requirements.txt
 ```
