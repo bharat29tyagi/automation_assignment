@@ -22,6 +22,7 @@ Before running this project, ensure you have the following installed:
 Clone this repository to your local machine using Git:
 
 ### 2. Create a folder in your WordPress site named job_cron
+Go into wp-content/themes/your_theme -> create **job_cron** folder.
 Paste both the php files in that folder
 
 ### 3. functions.php
